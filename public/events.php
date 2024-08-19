@@ -2,4 +2,4 @@
 
 require_once '../app/init.php';
 
-$app = new App('StudentController');
+$eventApp = new App('EventController');
